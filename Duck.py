@@ -21,7 +21,6 @@ animal(Dog())
 animal(cat())
 animal(Goat())'''
 
-
 #By the Help Of Looping
 class Bike:
     def start(self):
