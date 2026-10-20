@@ -3,6 +3,7 @@
 ## 📌 Overview
 
 This project demonstrates important concepts of Object-Oriented Programming (OOP) in Python, including duck typing, polymorphism, operator overloading, magic methods, inheritance, method overloading, and constructor overloading.
+
 The examples explain how different objects can share the same method name, how operators can work with user-defined objects, and how Python handles methods with varying arguments.
 
 ## 🎯 Concepts Covered
