@@ -3,7 +3,6 @@
 # it will focus on behaviour no need to focus on Object
 # It will work without using Inheritance
 
-
 '''class Dog:
     def sound(self):
         print("Bark....")
